@@ -1,0 +1,6 @@
+Use `invoke build` to build the project.
+Use `./terminal` to run a sample of the program in the terminal.
+Use `./matrix` to run a sample of the program on a raspberry pi.
+
+MAX7219 matrix should be connected to the raspberry pi pins in the following
+configuration:
